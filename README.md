@@ -28,10 +28,13 @@ Clone le dépôt :
    git clone git@github.com:lulruru/Music-Downloader.git
    cd Music-Downloader
    open MusicDownloader
-ou
-  Telecharger le zip
-  Extraire le zip
-  Ouvrir Music-Downloader
+    ou
+   Telecharger le zip
+   Extraire le zip
+   Ouvrir Music-Downloader
+
+
 
 ## 📸 Aperçu
+
 ![Aperçu de l'application](assets/screenshot.png)
