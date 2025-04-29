@@ -1,4 +1,4 @@
-# 🎵 Music Downloader
+# 🎵 Music Downloader(Mac only)
 
 **Music Downloader** est une application Python avec interface graphique qui permet de télécharger facilement de la musique depuis **YouTube**, **Spotify** et **SoundCloud**.
 
