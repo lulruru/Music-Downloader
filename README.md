@@ -25,7 +25,7 @@ L'application utilise `yt-dlp` pour extraire l'audio, et propose une expérience
 
 1. Clone le dépôt :
    ```bash
-   git clone https://github.com/tonpseudo/music-downloader.git
+   git clone git@github.com:lulruru/Music-Downloader.git
    cd music-downloader
 
 ## 📸 Aperçu
