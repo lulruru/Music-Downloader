@@ -1,4 +1,4 @@
-# 🎵 Music Downloader
+# 🎵 Music Downloader(Mac only)
 
 **Music Downloader** est une application Python avec interface graphique qui permet de télécharger facilement de la musique depuis **YouTube**, **Spotify** et **SoundCloud**.
 
@@ -25,6 +25,8 @@ L'application utilise `yt-dlp` pour extraire l'audio, et propose une expérience
 
 1. Clone le dépôt :
    ```bash
-   git clone https://github.com/tonpseudo/music-downloader.git
-   cd music-downloader```
-   ![Aperçu de l'application](assets/screenshot.png)
+   git clone git@github.com:lulruru/Music-Downloader.git
+   cd music-downloader
+
+## 📸 Aperçu
+![Aperçu de l'application](assets/screenshot.png)
