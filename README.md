@@ -28,4 +28,5 @@ L'application utilise `yt-dlp` pour extraire l'audio, et propose une expérience
    git clone https://github.com/tonpseudo/music-downloader.git
    cd music-downloader
 
+## 📸 Aperçu
 ![Aperçu de l'application](assets/screenshot.png)
