@@ -21,8 +21,10 @@ L'application utilise `yt-dlp` pour extraire l'audio, et propose une expérience
 - 🚀 Optimisation générale (performances, gestion d’erreurs)
 - 🌐 Détection automatique de métadonnées (titre, artiste, etc.)
 
-## 🛠️ Installation (pour développeurs)
+## 📸 Aperçu
+![Aperçu de l'application](assets/screenshot.png)
 
+## 🛠️ Installation (pour développeurs)
 Clone le dépôt :
    ```bash
    git clone git@github.com:lulruru/Music-Downloader.git
@@ -32,9 +34,3 @@ Clone le dépôt :
    Telecharger le zip
    Extraire le zip
    Ouvrir Music-Downloader
-
-
-
-## 📸 Aperçu
-
-![Aperçu de l'application](assets/screenshot.png)
